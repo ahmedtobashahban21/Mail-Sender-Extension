@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Backend Project\\ContactPageForTesting\\ContactPageForTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F701834-A213-4DAB-954F-2E986FA5EDBB}|ContactPageForTesting\\ContactPageForTesting.csproj|d:\\backend project\\contactpagefortesting\\contactpagefortesting\\contactpagefortesting\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F701834-A213-4DAB-954F-2E986FA5EDBB}|ContactPageForTesting\\ContactPageForTesting.csproj|solutionrelative:contactpagefortesting\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F701834-A213-4DAB-954F-2E986FA5EDBB}|ContactPageForTesting\\ContactPageForTesting.csproj|d:\\backend project\\contactpagefortesting\\contactpagefortesting\\contactpagefortesting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F701834-A213-4DAB-954F-2E986FA5EDBB}|ContactPageForTesting\\ContactPageForTesting.csproj|solutionrelative:contactpagefortesting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F701834-A213-4DAB-954F-2E986FA5EDBB}|ContactPageForTesting\\ContactPageForTesting.csproj|d:\\backend project\\contactpagefortesting\\contactpagefortesting\\contactpagefortesting\\models\\formrigister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F701834-A213-4DAB-954F-2E986FA5EDBB}|ContactPageForTesting\\ContactPageForTesting.csproj|solutionrelative:contactpagefortesting\\models\\formrigister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormRigister.cs",
+              "DocumentMoniker": "D:\\Backend Project\\ContactPageForTesting\\ContactPageForTesting\\ContactPageForTesting\\Models\\FormRigister.cs",
+              "RelativeDocumentMoniker": "ContactPageForTesting\\Models\\FormRigister.cs",
+              "ToolTip": "D:\\Backend Project\\ContactPageForTesting\\ContactPageForTesting\\ContactPageForTesting\\Models\\FormRigister.cs",
+              "RelativeToolTip": "ContactPageForTesting\\Models\\FormRigister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:38:16.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Backend Project\\ContactPageForTesting\\ContactPageForTesting\\ContactPageForTesting\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactPageForTesting\\appsettings.json",
+              "ToolTip": "D:\\Backend Project\\ContactPageForTesting\\ContactPageForTesting\\ContactPageForTesting\\appsettings.json",
+              "RelativeToolTip": "ContactPageForTesting\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T13:26:57.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\Backend Project\\ContactPageForTesting\\ContactPageForTesting\\ContactPageForTesting\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactPageForTesting\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\Backend Project\\ContactPageForTesting\\ContactPageForTesting\\ContactPageForTesting\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ContactPageForTesting\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAABMAAACAmZmZmZkhwBQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:26:57.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
