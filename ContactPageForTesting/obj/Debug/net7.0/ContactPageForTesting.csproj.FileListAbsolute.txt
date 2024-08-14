@@ -1,0 +1,78 @@
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\appsettings.Development.json
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\appsettings.json
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\ContactPageForTesting.exe
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\ContactPageForTesting.deps.json
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\ContactPageForTesting.runtimeconfig.json
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\ContactPageForTesting.dll
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\ContactPageForTesting.pdb
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.csproj.AssemblyReference.cache
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.AssemblyInfoInputs.cache
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.AssemblyInfo.cs
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.csproj.CoreCompileInputs.cache
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.MvcApplicationPartsAssemblyInfo.cs
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.MvcApplicationPartsAssemblyInfo.cache
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\staticwebassets\msbuild.ContactPageForTesting.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\staticwebassets\msbuild.build.ContactPageForTesting.props
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ContactPageForTesting.props
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ContactPageForTesting.props
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\staticwebassets.pack.json
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\staticwebassets.build.json
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\staticwebassets.development.json
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\scopedcss\bundle\ContactPageForTesting.styles.css
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.csproj.CopyComplete
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.dll
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\refint\ContactPageForTesting.dll
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.pdb
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.genruntimeconfig.cache
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ref\ContactPageForTesting.dll
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\MailKit.dll
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\MimeKit.dll
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\System.Formats.Asn1.dll
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\LearningAngular\BackEnd\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\appsettings.Development.json
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\appsettings.json
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\ContactPageForTesting.exe
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\ContactPageForTesting.deps.json
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\ContactPageForTesting.runtimeconfig.json
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\ContactPageForTesting.dll
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\ContactPageForTesting.pdb
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\MailKit.dll
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\MimeKit.dll
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\System.Formats.Asn1.dll
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.csproj.AssemblyReference.cache
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.AssemblyInfoInputs.cache
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.AssemblyInfo.cs
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.csproj.CoreCompileInputs.cache
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.MvcApplicationPartsAssemblyInfo.cs
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.MvcApplicationPartsAssemblyInfo.cache
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\staticwebassets.build.json
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\staticwebassets.development.json
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\staticwebassets\msbuild.ContactPageForTesting.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\staticwebassets\msbuild.build.ContactPageForTesting.props
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ContactPageForTesting.props
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ContactPageForTesting.props
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\scopedcss\bundle\ContactPageForTesting.styles.css
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactP.577DB746.Up2Date
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.dll
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\refint\ContactPageForTesting.dll
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.pdb
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ContactPageForTesting.genruntimeconfig.cache
+D:\Backend Project\ContactPageForTesting\ContactPageForTesting\ContactPageForTesting\obj\Debug\net7.0\ref\ContactPageForTesting.dll
