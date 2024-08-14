@@ -19,5 +19,5 @@ Here's the latest update on my Mail Sender project. I have developed a web appli
 
 ## Screenshots
 
-![Mail Sender UI]([https://your-image-link.com/screenshot1.png](https://github.com/ahmedtobashahban21/Mail-Sender-Extension/blob/master/mailsender.png))
+![Mail Sender UI](https://github.com/ahmedtobashahban21/Mail-Sender-Extension/blob/master/mailsender.png)
 
